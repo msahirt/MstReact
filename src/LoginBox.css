@@ -1,0 +1,11 @@
+.box {
+    width: 300px;
+    height: 500px;
+    background-color: rgb(217, 215, 250);
+    border: 1px solid brown;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    padding-top: 10px;
+}
